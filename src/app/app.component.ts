@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'contador';
+  contador: number = 0;
+
+  handleCount(value: number){
+    this.contador = value;
+  }
 }

@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Poppins:wght@400;500;600&display=swap');
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Poppins', sans-serif;
+}

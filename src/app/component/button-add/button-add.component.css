@@ -1,0 +1,14 @@
+button {
+    background-color: #007BFF;
+    border: none;
+    font-size: 2rem;
+    border-radius: 15px;
+    padding: 0.5rem;
+    width: 150px;
+}
+
+button:hover {
+    background-color: #004fa3;
+    cursor: pointer;
+    color: snow;
+}
