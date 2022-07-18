@@ -106,5 +106,7 @@
       }
     }
   },
-  "defaultProject": "contador"
+  "cli": {
+    "analytics": false
+  }
 }
